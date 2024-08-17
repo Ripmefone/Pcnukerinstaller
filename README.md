@@ -1,5 +1,5 @@
 # Pcnukerinstaller
-in here you can download pc installer
+in here you can download pc nuker installer
 WORKING:
 auto install when there is new update
 
